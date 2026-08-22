@@ -1,0 +1,11 @@
+# Local exports and test artifacts
+Zotero结构化导出*/
+work/
+*.sqlite
+*.sqlite-journal
+*.pdf
+
+# Windows
+Thumbs.db
+Desktop.ini
+
